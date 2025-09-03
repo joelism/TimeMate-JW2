@@ -1,1 +1,0 @@
-document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{document.getElementById('view').textContent='Route: '+b.dataset.route});
